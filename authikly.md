@@ -65,14 +65,14 @@ Product core components and features:
 10.Automated and intelligent estate planning, and trusts... like DAOs, or DTOs (Decentralized Trust Organizations).
 
 * Mockups/designs of any UI components
-![image](https://user-images.githubusercontent.com/43421542/109854969-b52a1400-7c25-11eb-8407-91b14c783d69.png)
-
 * Data models / API specifications of the core functionality
 * An overview of the technology stack to be used
 * Documentation of core components, protocols, architecture, etc. to be deployed
 * PoC/MVP or other relevant prior work or research on the topic
 * What your project is _not_ or will _not_ provide or implement
   * This is a place for you to manage expectations and to clarify any limitations that might not be obvious
+Authikly Component Architecture
+![image](https://user-images.githubusercontent.com/43421542/109855772-b3ad1b80-7c26-11eb-8136-472fc9efcfca.png)
 
 *40 year maturity and interoperability roadmap
 
