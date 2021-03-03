@@ -150,9 +150,13 @@ To assist you in defining it, we have created a document with examples for some 
 > :zap: If any of your deliverables is based on somebody else's work, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
 
 ### Overview
-* **Total Estimated Duration:** Duration of the whole project (e.g. 2 months)
-* **Full-Time Equivalent (FTE):**  Required workload of a full-time employee for the whole project (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent)) (e.g. 2 FTE)
-* **Total Costs:** Amount of payment in USD for the whole project. The total amount of funding _needs to be below $30k for initial grants_ and $100k for follow-up grants. (e.g. 12,000 USD)
+* **Total Estimated Duration:** 12 months to production MVP.
+* **Full-Time Equivalent (FTE):**  3 FTEs, Project Manager / Architect, Senior Developer, UI Developer
+* **Total Costs:** 3 FTEs required for project completion:
+*  3(1980*$130)= $772,200 total project labor costs
+-$130 rate calculation: 3/($145+$128+$116) (enterprise architect, senior developer, UI developer rates respectivly, ref. GSA https://calc.gsa.gov/).
+
+
 
 ### Milestone 1 Example — Implement Substrate Modules 
 * **Estimated Duration:** 1 month
