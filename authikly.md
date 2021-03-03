@@ -7,8 +7,6 @@
 ## Project Overview :page_facing_up: 
 
 ### Overview
-
-Please provide the following:
   * Description: Tokenizing the value of art, art assets, and art historical and ownership information, and creating an international artisan registry.
   * By creating NFTs of real-world art, we could ensure its authenticity and rightful ownership.
   *  User cases:
@@ -23,6 +21,8 @@ Please provide the following:
 
 
 ### Project Details 
+*Note: Authikly is only 1 component of a larger ecosystem whose goals include democratizing human labor, and increasing artisanship and self-sufficiency in the economic future-state, which we believe will be heavily dependent on a multidiscipline (artisan and technical) and dynamic workforce.
+
 Product core components and features:
 1. Nonfungible Physical Asset Tokens (NPATS): 
 -Public key = physical art hash (method to be determined)
