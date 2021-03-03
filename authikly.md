@@ -21,7 +21,7 @@
 
 
 ### Project Details 
-*Note: Authikly is only 1 component of a larger ecosystem whose goals include democratizing human labor, and increasing artisanship and self-sufficiency in the economic future-state, which we believe will be heavily dependent on a multidiscipline (artisan and technical) and dynamic workforce.
+*Note: Authikly is only 1 component of a larger ecosystem whose goals include democratizing human labor, and increasing artisanship and self-sufficiency in the economic future-state, which we believe will be heavily dependent on a multidiscipline (artisan and technical) and dynamic workforce (ref. Project PROME, aka Prometheus National Human Resource System, aka PROME - An Autonomous Business Resource Management Platform. Collaberation, Brickell Technology / Order of the Artisans Foundation).
 
 Product core components and features:
 1. Nonfungible Physical Asset Tokens (NPATS): 
