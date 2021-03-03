@@ -46,30 +46,35 @@ Help us locate your project in the Polkadot/Substrate/Kusama landscape and what 
 ## Team :busts_in_silhouette:
 
 ### Team members
-* Name of team leader
-* Names of team members	
+* Team Lead: Michael Diaz
+* Technical Architect: Michael Diaz
+* Lead Developer: Dinara Diaz	
 
 ### Contact
-* **Contact Name:** Full name of the contact person in your team
-* **Contact Email:** Contact email (e.g. john@duo.com)
-* **Website:**
+* **Contact Name:** Michael Diaz
+* **Contact Email:** mdiaz@brickelltechnology.com
+* **Website:** https://www.brickelltechnology.com/
 
 ### Legal Structure 
-* **Registered Address:** Address of your registered legal entity, if available. Please keep it in a single line. (e.g. High Street 1, London LK1 234, UK)
-* **Registered Legal Entity:** Name of your registered legal entity, if available. (e.g. Duo Ltd.)
+* **Registered Address:** 4012 Gypsum Hill Rd, Haymarket, VA 20169
+* **Registered Legal Entity:** Brickell Technology, LLC
 
 ### Team's experience
-Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting code commits made by team members in past projects. For research-related grants, references to past publications and projects in a related domain are helpful. 
+Michael Diaz
+Mike, Founder and Chief Architect of several companies and non-profit organizations, is a trusted advisor to both the government and industry partners, coordinating with customer mission areas, product owners and development teams to ensure that project deliverables adhere to enterprise and business architecture. Mike also provides guidance and expertise in support of enterprise, solution, and data architecture, design thinking, lean startup and Agile management. Michael Diaz has focused his career in providing non-profit organizations, small ethical businesses and government organizations with proven architecture, IT strategy and modernization expertise.
 
-If anyone on your team has applied for a grant at the Web3 Foundation previously, please list the name of the project and legal entity here.
+Dinara Diaz
+Dinara's projects are not avaiable for public consumption.
 
 ### Team Code Repos
-* https://github.com/<your_repo_1>
-* https://github.com/<your_repo_2>
+* https://github.com/BrickellTechnolog
 
 ### Team LinkedIn Profiles
-* https://www.linkedin.com/<person_1>
-* https://www.linkedin.com/<person_2>
+Michael Diaz
+https://www.linkedin.com/in/mdiazprofile/
+
+Dinara Diaz
+https://www.linkedin.com/in/ddiazprofile/
 
 ## Development Status :open_book: 
 
