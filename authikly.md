@@ -155,6 +155,7 @@ To assist you in defining it, we have created a document with examples for some 
 * **Total Costs:** 3 FTEs required for project completion:
 *  3(1980*$130)= $772,200 total project labor costs
 -$130 rate calculation: 3/($145+$128+$116) (enterprise architect, senior developer, UI developer rates respectivly, ref. GSA https://calc.gsa.gov/).
+-The goal will be to use free labor whenever / whereever possible, e.g. interns, voulenbteers, etc., in order to reduce costs. Current funding is dependant on executive investments.
 
 
 
