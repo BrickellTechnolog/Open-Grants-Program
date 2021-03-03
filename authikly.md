@@ -9,20 +9,60 @@
 ### Overview
 
 Please provide the following:
-  * Description: Tokenizing the value of art, art assets, and art historical and ownership information.
+  * Description: Tokenizing the value of art, art assets, and art historical and ownership information, and creating an international artisan registry.
   * By creating NFTs of real-world art, we could ensure its authenticity and rightful ownership.
   *  User cases:
   *   Use case 1: Auctions. Auction houses could register art on authikly, and upon sale, the transaction, any new relevant information, as well as new owner will be saved as an   NFT. Ownership of said NFT would be retained by the new owner, and any legal documentation would also be saved on the art pieces' NFT "folio".
   *   User case 2: Artisans. Artisans could register inventory on authikly, and upon sale, the transaction, any new relevant information, as well as new owner will be saved as     an NFT. Ownership of said NFT would be retained by the new owner, and any legal documentation would also be saved on the art pieces' NFT "folio".
   *   User case 3: Titles. NFTs may be created for real world real estate.
-  *   Use case 4: Authenticators. Authenticators and restorers can add information about service and maintenance done on pieces.
+  *   Use case 4: Authenticators. Authenticators and restorers can add information about service and maintenance done on pieces. 
   * An indication of how your project relates to / integrates into Substrate / Polkadot / Kusama.
   *  Substrate is the only technology that can quickly provide the immutable, scalable, and disparate blockchain interoperability required for authikly to efficiently document, track, and conducting value offloading of art and art assets.
   * An indication of why your team is interested in creating this project.
   *  We believe that our proposed solution has valid use cases, and therefore, can provide value to the Substrate ecosystem and to blockchain in general.
 
+
 ### Project Details 
-We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
+Product core components and features:
+1. Nonfungible Physical Asset Tokens (NPATS): 
+-Public key = physical art hash (method to be determined)
+-Private key = system created hash
+2.NPAT art authenticity Score:
+-None: Unacceptable / 0
+-Hash assigned: Acceptable / 1
+-Hash assigned, private hash printed, verified, and sealed: Enhanced / 2
+-Hash assigned, private hash printed, verified, sealed, and held by private authorized 3rd party (service TBD, possibly safety deposit box.): Fortified / 3
+-Hash assigned, private hash printed, verified, sealed, and held by private authorized 3rd party, and insured (service TBD, possibly safety deposit box.): Assured / 4
+3.NPAT country of origin, fair trade verification (TBD): Can be helpful in several scenarios:
+-Scenario 1: Buy [insert country] initiatives.
+-Scenario 2: Buy [insert cause or conviction]. e.g. organic, free trade, etc. 
+-Scenario 3: Buy [insert culture]. e.g. Persian rug, French wine, American lithographs, etc.
+5. International Art Authenticity Registry (IAAR):
+-Minimum information added / created (not all fields are public):
+--Artist name
+--Year
+--Piece name
+--Medium
+--Style
+--Description
+--Image(s) of piece
+--Note from the artist
+*Upon sale
+--Transaction information (ownership information, wallets, etc.)
+--Mandatory fields (transaction type / contract type)
+7. International Artisan Registry (IRA)
+8. Art Sales & Logistics Network (ASLN)
+9. Project Crowdfunding Token Allocation (PCTA):
+-Artists can issue non-asset tokens (NATs) to raise project funds. The NATs could then aggregate value as the artist's reputation grows. The artists could increase value of NATs by individualizing them, e.g. adding a note, poem, personalizing them upon holder request (a autograph of sorts).
+11. Persona UIs:
+-Artisan UI (product creators)
+-Customer UI (small sales and gigs)
+-Collector and Supporter UI (medium plus sales, and engagements / commissions)
+-Partner UI (Auction houses, government, employers, developers, etc.)
+9.Smart Art: Feature enables intelligent sales terms and transactions, for example:
+-Artist requiring future sales to require their authorization,
+-Transfer of art requiring a complex sequence of event to occur, death, graduation, etc. In which case, a verifier would be added to smart contract, and would validate that the required events have occurred, and will add evidence to art's folio. It is assumed that the art's owner would compensate validator with an amount specified on the contract. Additional assurance may be added by adding more validators, as well as anonymous validators (a possible future-state gig).
+10.Automated and intelligent estate planning, and trusts... like DAOs, or DTOs (Decentralized Trust Organizations).
 
 * Mockups/designs of any UI components
 * Data models / API specifications of the core functionality
