@@ -1,31 +1,25 @@
 # W3F Open Grant Proposal
 
-> 🌏 This page is also available in [Chinese (中文)](./application-template-cn.md).
-> 
-> This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines! Lines starting with a `>` (such as this one) can be removed.
-> 
-> See the [Open Grants Program Process](https://github.com/w3f/Open-Grants-Program/#pencil-process) on how to submit a proposal.
-
-* **Project Name:** Name of your project (e.g. DuoSwap Module)
-* **Team Name:** Legal name of your team (e.g. Duo)
-* **Payment Address:** BTC or Ethereum (DAI) payment address. We don't accept payments for the program in other currencies at this stage. (e.g. 123mp123...)
-
-
-> ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
+* **Project Name:** authikly
+* **Team Name:** Brickell Technology, LLC
+* **Payment Address:** 0x2A8914A50FB93101cc7C12dA307BD14B11c1f25E
 
 ## Project Overview :page_facing_up: 
-
-If this application is in response to an RFP, please indicate this on the first line of this section.
-
-If this is an application for a follow-up grant (the continuation of an earlier, successful W3F grant), please provide name and/or pull request of said grant on the first line of this section.
 
 ### Overview
 
 Please provide the following:
-  * If the name of your project is not descriptive, a tag line (one sentence summary).
-  * A brief description of your project.
+  * Description: Tokenizing the value of art, art assets, and art historical and ownership information.
+  * By creating NFTs of real-world art, we could ensure its authenticity and rightful ownership.
+  *  User cases:
+  *   Use case 1: Auctions. Auction houses could register art on authikly, and upon sale, the transaction, any new relevant information, as well as new owner will be saved as an   NFT. Ownership of said NFT would be retained by the new owner, and any legal documentation would also be saved on the art pieces' NFT "folio".
+  *   User case 2: Artisans. Artisans could register inventory on authikly, and upon sale, the transaction, any new relevant information, as well as new owner will be saved as     an NFT. Ownership of said NFT would be retained by the new owner, and any legal documentation would also be saved on the art pieces' NFT "folio".
+  *   User case 3: Titles. NFTs may be created for real world real estate.
+  *   Use case 4: Authenticators. Authenticators and restorers can add information about service and maintenance done on pieces.
   * An indication of how your project relates to / integrates into Substrate / Polkadot / Kusama.
+  *  Substrate is the only technology that can quickly provide the immutable, scalable, and disparate blockchain interoperability required for authikly to efficiently document, track, and conducting value offloading of art and art assets.
   * An indication of why your team is interested in creating this project.
+  *  We believe that our proposed solution has valid use cases, and therefore, can provide value to the Substrate ecosystem and to blockchain in general.
 
 ### Project Details 
 We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
