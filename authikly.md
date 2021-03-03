@@ -65,6 +65,8 @@ Product core components and features:
 10.Automated and intelligent estate planning, and trusts... like DAOs, or DTOs (Decentralized Trust Organizations).
 
 * Mockups/designs of any UI components
+![image](https://user-images.githubusercontent.com/43421542/109854969-b52a1400-7c25-11eb-8407-91b14c783d69.png)
+
 * Data models / API specifications of the core functionality
 * An overview of the technology stack to be used
 * Documentation of core components, protocols, architecture, etc. to be deployed
