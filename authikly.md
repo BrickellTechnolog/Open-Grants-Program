@@ -72,7 +72,7 @@ Product core components and features:
 * What your project is _not_ or will _not_ provide or implement
   * This is a place for you to manage expectations and to clarify any limitations that might not be obvious
 Authikly Component Architecture
-![image](https://user-images.githubusercontent.com/43421542/109855772-b3ad1b80-7c26-11eb-8136-472fc9efcfca.png)
+[image]
 
 *40 year maturity and interoperability roadmap
 
